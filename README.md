@@ -1,3 +1,5 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aliev-yamanee-300122a5)
+
 Hello
 
 I'm Aliev, a software developer currently working at Telia and using Rust for daily work.
