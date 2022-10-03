@@ -4,9 +4,9 @@
 
 Hello
 
-I'm Aliev, a software developer currently working at Telia and using Rust for daily work.
-I started as embedded developer working with product development for 5 years. 
-Today I'm working in all areas, backend, frontend, embedded and cloud, so I'm more like a Fullstack Developer :)
+I'm Aliev, a software developer based in Sweden who uses Rust for daily work.
+I started as an embedded developer and worked with product development for 5 years. 
+Today I work in all areas, backend, frontend, embedded and cloud.
 
 <br>
 
