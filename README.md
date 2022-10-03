@@ -1,10 +1,12 @@
+![Header](./banner/github-header-image.png)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aliev-yamanee-300122a5)
 
 Hello
 
 I'm Aliev, a software developer currently working at Telia and using Rust for daily work.
-I started as a embedded developer and worked with product development for 5 years. 
-Nowadays I'm working within all areas: backend, frontend, embedded and cloud.
+I started as embedded developer working with product development for 5 years. 
+Today I'm working in all areas, backend, frontend, embedded and cloud, so I'm more like a Fullstack Developer :)
 
 <br>
 
