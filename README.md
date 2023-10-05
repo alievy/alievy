@@ -4,9 +4,7 @@
 
 Hello
 
-I'm Aliev, a software developer based in Sweden who uses Rust for daily work.
-I started as an embedded developer and worked with product development for 5 years. 
-Today I work in all areas, backend, frontend, embedded and cloud.
+I'm Aliev, a seasoned software developer located in Sweden, with Rust as my primary tool of trade. My journey began in the world of embedded systems, where I honed my skills for five years. Today, I've expanded my horizons to encompass a wide range of domains, including backend, frontend, embedded systems, and cloud development.
 
 <br>
 
