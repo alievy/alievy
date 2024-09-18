@@ -4,7 +4,7 @@
 
 Hello
 
-I'm Aliev, a seasoned software developer located in Sweden, with Rust as my primary tool of trade. My journey began in the world of embedded systems, where I honed my skills for five years. Today, I've expanded my horizons to encompass a wide range of domains, including backend, frontend, embedded systems, and cloud development.
+I'm Aliev, a software developer from Sweden, with Rust as my primary programming language. I began my career in embedded systems, spending five years developing my expertise. Over time, I’ve expanded my skills to include backend, frontend, embedded systems, cloud development, and DevOps. I also work with Golang, C, JavaScript, and TypeScript. At work, I primarily develop for Linux, handling everything from writing bash scripts to creating full-featured applications for the Linux environment.
 
 <br>
 
